@@ -14,7 +14,7 @@
         <tr>
             <td class="dates">24/03/2025</td>
             <td class="text">
-                <p>Reunión. Formación vídeos de SQLite, Sqlite y Python. Empezar la tarea que se nos mandó.</p>
+                <p>Reunión. Formación vídeos de SQLite y Python. Empezar la tarea que se nos mandó.</p>
             </td>
             <td class="total_time">
                 <p> 7 horas.</p>
@@ -23,7 +23,7 @@
         <tr>
             <td class="dates">25/03/2025</td>
             <td class="text">
-                <p>Formación SQlite y Python. Finalización tarea.</p>
+                <p>Práctica de SQlite y Python. Finalización de la tarea.</p>
             </td>
         </td>
         <td class="total_time">
@@ -33,7 +33,7 @@
         <tr>
             <td class="dates">26/03/2025</td>
             <td class="text">
-                <p>Reunión. Comentarios sobre la tarea. Nuevo ejercicio. Seguir formación de SQLite y Python. Formación SQLite y Excel. Comienzo la tarea.</p>
+                <p>Reunión. Comienzo de nuevo ejercicio. Más formación de SQLite y Python, comienzo de lectura de información de la librería Pandas. Comienzo la tarea.</p>
             </td>
         </td>
         <td class="total_time">
@@ -43,19 +43,19 @@
         <tr>
             <td class="dates">27/03/2025</td>
             <td class="text">
-                <p>Realización de la tarea. Ejercicios Python. Práctica Web Scraping.</p>
+                <p>Realización de la tarea. Ejercicios Python, práctica de Web Scraping y base de datos con SQLite.</p>
             </td>
         </td>
         <td class="total_time">
-            <p>  horas.</p>
+            <p> 7 horas.</p>
         </td>
         </tr>
         <tr>
             <td class="dates">28/03/2025</td>
             <td class="text">
-                <p>Reunión. .</p>
+                <p>Reunión. Aprendiendo a procesar un HTML como PDF y detectar datos con RegExp. Buscar información de Python MultiThreads.</p>
             </td>
         <td class="total_time">
-            <p> horas.</p>
+            <p> 7 horas.</p>
         </td>
         </tr>
